@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### About:
+
+ - Junior iOS Mobile Developer 📱
+ - Student 👨‍🎓
+ - Looking for a job 🔎
+
 <!--
 **Fett00/Fett00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
